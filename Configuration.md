@@ -1,4 +1,5 @@
 I - Conifguration des hôtes virtuelles 
+
 Création d'un nouveau repertoire pour le projet Ansible
 mkdir ansible-apache
 cd ansible-apache
