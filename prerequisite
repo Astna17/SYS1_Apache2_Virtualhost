@@ -7,4 +7,5 @@ sudo apt install apache2
 
 
 2- Installation Ansible
+sudo apt updat
 sudo apt install ansible
