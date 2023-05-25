@@ -1,1 +1,10 @@
+## formation à suivre
 
+1- Installation de apache2
+sudo apt update
+sudo apt upgrade
+sudo apt install apache2
+
+
+2- Installation Ansible
+sudo apt install ansible
