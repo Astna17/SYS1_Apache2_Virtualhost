@@ -6,6 +6,8 @@ mkdir ansible-apache
 
 cd ansible-apache
 
+
+
 II - Création d'un fichier d'inventaire 
 il faut créer un fichier d'inventaire pour spécifier l' hôte cible.
 
@@ -22,6 +24,8 @@ api.hei.school
 front.hei.school
 
 back.hei.school
+
+
 
 
 III - Création d'un fichier d'inventaire Apache2
